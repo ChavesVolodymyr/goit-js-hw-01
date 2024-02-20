@@ -1,4 +1,4 @@
-`use strict`;
+'use strict';
 function getElementWidth(content, padding, border) {
     content = parseFloat (content)
     padding = parseFloat (padding)
